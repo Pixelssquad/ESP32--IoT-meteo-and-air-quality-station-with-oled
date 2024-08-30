@@ -29,6 +29,7 @@ Ho usato i due progetti per prenderne spunto e farne uno solo.
 Resistor is 1K ohm. in the future it will be replaced with a 5 to 3.3 volt analog converter module, for greater precision and ratio in the measurement scale.
 If you don't have the converter you can leave the resistor.
 
+In the example I deliberately placed the sensors in opposite corners. The mq-135 sensor gets hot when it's running so I kept it away from the temperature sensor to avoid interference.
 
 In this figure the ESP32 is without OLED, in my project I used the one with the integrated OLED. If you don't have the display you must remove the part of the code related to it. However, you can connect an external 128x64 display
 ![Meteo_1_bb](https://github.com/user-attachments/assets/cd7a263d-9f15-4e99-91a5-272223d560f5)
