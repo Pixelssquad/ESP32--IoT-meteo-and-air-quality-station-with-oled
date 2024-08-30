@@ -27,3 +27,11 @@ Ho usato i due progetti per prenderne spunto e farne uno solo.
 */
 
 ![Meteo_1_bb](https://github.com/user-attachments/assets/cd7a263d-9f15-4e99-91a5-272223d560f5)
+
+![Immagine WhatsApp 2024-08-30 ore 06 36 44_6c2b3d7d](https://github.com/user-attachments/assets/ab3287ae-b45b-4a66-b486-8295059612ae)
+
+![Immagine WhatsApp 2024-08-30 ore 06 38 34_58df9bad](https://github.com/user-attachments/assets/4bbac203-a231-46f9-9ec6-6414ece2131b)
+
+![Immagine WhatsApp 2024-08-30 ore 06 36 44_b2f6ad6b](https://github.com/user-attachments/assets/2de5d8eb-24e3-4d00-8eae-f7b3cca46781)
+
+![Immagine WhatsApp 2024-08-30 ore 06 36 44_5c07c74b](https://github.com/user-attachments/assets/91117cb6-a710-4648-8f6e-97134d441c0f)
