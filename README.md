@@ -26,6 +26,10 @@ Ho usato i due progetti per prenderne spunto e farne uno solo.
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
 
+Resistor is 1K ohm. in the future it will be replaced with a 5 to 3.3 volt analog converter module, for greater precision and ratio in the measurement scale.
+If you don't have the converter you can leave the resistor.
+
+
 ![Meteo_1_bb](https://github.com/user-attachments/assets/cd7a263d-9f15-4e99-91a5-272223d560f5)
 
 ![Immagine WhatsApp 2024-08-30 ore 06 36 44_6c2b3d7d](https://github.com/user-attachments/assets/ab3287ae-b45b-4a66-b486-8295059612ae)
